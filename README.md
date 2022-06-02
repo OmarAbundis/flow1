@@ -6,3 +6,4 @@ En este ejercicio del 02/06/2022, se están realizando cambios desde VSC para re
 Segundo ejercicio.
 
 Ahora se va a emplear el plugin de GitHub que se encuntra en VSC, para realizar un nuevo commit.
+
